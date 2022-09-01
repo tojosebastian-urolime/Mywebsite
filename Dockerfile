@@ -1,2 +1,2 @@
 FROM hshar/webapp
-ADD . /var/ww/htmll
+ADD . /var/ww/html
