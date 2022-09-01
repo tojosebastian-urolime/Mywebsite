@@ -1,2 +1,2 @@
-FROM httpd
-ADD . /var/www/html/index.html
+FROM hshar/webapp
+ADD . /var/www/html/
