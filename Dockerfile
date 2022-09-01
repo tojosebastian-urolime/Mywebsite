@@ -1,2 +1,2 @@
 FROM httpd
-ADD . /var/ww/html
+ADD . /var/ww/html/index.html
